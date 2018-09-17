@@ -1,2 +1,3 @@
-# dtxvr
-Design Thinking in Virtual Reality
+# Design Thinking in Virtual Reality
+
+Built with [A-Frame](https://aframe.io), a web framework for building virtual reality experiences. Make WebVR with HTML and Entity-Component. Works on Vive, Rift, desktop, mobile platforms.
